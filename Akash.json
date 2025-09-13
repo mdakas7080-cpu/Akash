@@ -13,13 +13,8 @@
     },
     {
         "device_id": "15d033b0ed583ba1",
-        "key": "dnx",
-        "expirydate": "15-06-2026",
+        "key": "key67890",
+        "expirydate": "11-07-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "15d033b0ed583ba1",
-        "key": "dnx1",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
-]
+    }
+[      
